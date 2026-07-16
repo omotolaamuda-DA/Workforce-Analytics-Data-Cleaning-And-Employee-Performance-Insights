@@ -91,27 +91,19 @@ The project includes analysis of:
 
 ### Employees by Department
 
-```markdown
 ![Employees by Department](Dashboard%20Screenshots/Employees%20by%20Department.png)
-```
 
 ### Average Salary by Department
 
-```markdown
 ![Average Salary](Dashboard%20Screenshots/Average%20Salary%20by%20Department.png)
-```
 
 ### Average Performance Score
 
-```markdown
 ![Performance Score](Dashboard%20Screenshots/Average%20Performance%20Score.png)
-```
 
 ### Employee Distribution by City
 
-```markdown
 ![City Distribution](Dashboard%20Screenshots/Employee%20Distribution%20by%20City.png)
-```
 
 
 # Key Insights
