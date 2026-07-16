@@ -146,6 +146,6 @@ The complete report is available in the **Report** folder.
 
 **Omotola Amuda**
 
-- GitHub: [Omotolaamuda-DA]([url](https://github.com/omotolaamuda-DA))
-- LinkedIn: [Omotola Amuda]((https://www.linkedin.com/in/omotolaamuda?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- GitHub: ![Omotolaamuda-DA]([url](https://github.com/omotolaamuda-DA))
+- LinkedIn: ![Omotola Amuda]((https://www.linkedin.com/in/omotolaamuda?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 - Email: omotolaamuda@gmail.com[](url)
